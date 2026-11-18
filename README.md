@@ -1,6 +1,10 @@
 # btc-race-24h-20261118-1444 — washout-dip bot (cbBTC/USDC)
 
-Entry for make.fun `btc-race-24h-20261118-1444`: a bot that trades Coinbase
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/stevencau55551/btc-race-24h-20261118-1444-anspeldam/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/stevencau55551/btc-race-24h-20261118-1444-anspeldam/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
+Entry for the [make.fun bounty "Race a BTC trading bot live for 24 hours"](https://make.fun/bounty/btc-race-24h-20261118-1444): a bot that trades Coinbase
 Wrapped BTC (cbBTC) against USDC on 1-minute on-chain bars, starting with
 $1,000 of paper money, long only.
 
